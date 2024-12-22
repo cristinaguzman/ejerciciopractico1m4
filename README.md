@@ -32,4 +32,10 @@ En su lugar, copiará todos los archivos de configuración y las dependencias tr
 
 No es necesario usar eject. El conjunto de funciones predefinidas es adecuado para despliegues pequeños y medianos, y no deberías sentirte obligado a usar esta función. Sin embargo, entendemos que esta herramienta puede ser útil si necesitas personalizarla cuando estés listo para hacerlo.
 
-Ejercicio 1 módulo 4
+## Ejercicio 1 módulo 4
+1. Creación de Componentes en ReactJS 
+2. Uso de JSX para Renderización de Datos
+3. Flujo de Datos con Props
+4. Listas y Keys en React
+5. Formulario con Manejo de Estado
+6. Introducción a Hooks y Ciclo de Vida
